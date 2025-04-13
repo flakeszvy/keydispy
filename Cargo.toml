@@ -1,0 +1,9 @@
+[package]
+name = "Keydispy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+ferrousgl = "0.0.8"
+gl = "0.14.0"
+glam = "0.30.1"
